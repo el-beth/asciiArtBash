@@ -8,3 +8,4 @@
       / ____ \ ____) | |____ _| |_ _| |_  | (_| | |  | |_  | || (_) | |       | |  __/ |  | | | | | | | | | | (_| | |
      /_/    \_\_____/ \_____|_____|_____|  \__,_|_|   \__| |_| \___/|_|       |_|\___|_|  |_| |_| |_|_|_| |_|\__,_|_|
 
+This script will accept a string as an input and output it as an ascii art to the terminal
