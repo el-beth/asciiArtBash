@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# TODO
+## generate the font using the single fontFile as opposed to querying the font directory,
+## alternative font options,
+
 # generally, this script will accept input and output lineart corresponding to that string
 # syntax:
 #		./lineart.sh '+123'
